@@ -24,6 +24,8 @@ In this repo, you can chack all ES versions and features, you can check also thi
         - Added shared memory
         - Allows trailing commas for function parameters
 
+[Read ES8 details](https://medium.com/@bhageena/essential-studies-in-es8-ad4b17e7506)
+
 4. ECMAScript 2018 (ES9) : 
 
         - Added rest / spread properties
