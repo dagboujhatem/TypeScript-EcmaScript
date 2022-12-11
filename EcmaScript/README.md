@@ -50,3 +50,8 @@ https://dev.to/naimlatifi5/ecmascript-2021-es12-new-features-2l67
 8. ECMAScript 2022 (ES13) :
 
 https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/
+
+## References : 
+
+1. [W3Schools](https://www.w3schools.com/js/js_versions.asp)
+2. 
