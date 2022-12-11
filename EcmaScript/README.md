@@ -23,16 +23,13 @@ In this repo, you can chack all ES versions and features, you can check also thi
         - Added async functions
         - Added shared memory
         - Allows trailing commas for function parameters
-
-[Read ES8 details](https://medium.com/@bhageena/essential-studies-in-es8-ad4b17e7506)
-
+        
 4. ECMAScript 2018 (ES9) : 
 
         - Added rest / spread properties
         - Added asynchronous iteration
         - Added Promise.finally()
         - Additions to RegExp
-[ES9: Spread operator in coding game](https://www.codingame.com/playgrounds/7998/es6-tutorials-spread-operator-with-fun)
 
 5. ECMAScript 2019 (ES10) : 
     
