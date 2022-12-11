@@ -32,6 +32,7 @@ In this repo, you can chack all ES versions and features, you can check also thi
         - Added asynchronous iteration
         - Added Promise.finally()
         - Additions to RegExp
+[ES9: Spread operator in coding game](https://www.codingame.com/playgrounds/7998/es6-tutorials-spread-operator-with-fun)
 
 5. ECMAScript 2019 (ES10) : 
     
@@ -56,4 +57,5 @@ https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/
 ## References : 
 
 1. [W3Schools](https://www.w3schools.com/js/js_versions.asp)
-2. 
+2. [ES8 in medium](https://medium.com/@bhageena/essential-studies-in-es8-ad4b17e7506)
+3. [ES9: Spread operator in coding game](https://www.codingame.com/playgrounds/7998/es6-tutorials-spread-operator-with-fun)
