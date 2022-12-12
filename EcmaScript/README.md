@@ -41,7 +41,14 @@ In this repo, you can chack all ES versions and features, you can check also thi
 
 6. ECMAScript 2020 (ES11) :
 
-https://www.codeheroes.fr/2020/04/06/es2020-quoi-de-neuf-javascript/
+        - Optional chaining
+        - nullish coalescing operator
+        - BigInt
+        - Promise.allSettled
+        - String.prototype.matchAll
+        - globalThis
+        - import()
+        - for-in      
 
 7. ECMAScript 2021 (ES12) :
 
@@ -50,6 +57,9 @@ https://dev.to/naimlatifi5/ecmascript-2021-es12-new-features-2l67
 8. ECMAScript 2022 (ES13) :
 
 https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/
+
+8. ECMAScript 2023 (ES14) :
+
 
 ## References : 
 
@@ -60,3 +70,5 @@ https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/
 5. [How to Use the Spread Operator (…) in JavaScript](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 6. [What's the Spread Operator Used For in JavaScript?](https://www.digitalocean.com/community/tutorials/js-spread-operator)
 7. [ES9 new features - tutorials point](https://www.tutorialspoint.com/es6/es9_newfeatures.htm)
+8. [ES11 : Quoi de neuf Javascript ?](https://www.codeheroes.fr/2020/04/06/es2020-quoi-de-neuf-javascript/)
+9. [New JavaScript Features in ES11 That You Should Know](https://dev.to/worldindev/10-new-javascript-features-in-es2020-that-you-should-know-3ohf)
