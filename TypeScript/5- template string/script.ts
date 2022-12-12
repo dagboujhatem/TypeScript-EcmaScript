@@ -5,5 +5,3 @@ function load() {
     const message = `The current date is: ${currentDate.getDate()}/${currentDate.getMonth()}/${currentDate.getFullYear()}`;
     alert(message);
 }
-
-load();
