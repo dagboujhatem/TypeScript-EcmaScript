@@ -62,6 +62,15 @@ In this repo, you can chack all ES versions and features, you can check also thi
 
 8. ECMAScript 2022 (ES13) :
 
+        - Class field declarations 
+        - Ergonomic brand checks for private fields
+        - Class Static Block
+        - Regexp Match Indices
+        - Await operator at the top-level
+        - Method .at() function for Indexing
+        - Accessible Object.prototype.hasOwnProperty()
+        - Error Cause
+        - Array find from last
 
 9. ECMAScript 2023 (ES14) :
 
