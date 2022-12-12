@@ -58,6 +58,7 @@ In this repo, you can chack all ES versions and features, you can check also thi
 
 9. ECMAScript 2023 (ES14) :
 
+Check this [YouTube Video](https://www.youtube.com/watch?v=Kga1Rf39x2U) to learn more about the new set of functions for JavaScript Arrays that is currently in the advanced stage to become officially part of the language.
 
 ## References : 
 
