@@ -52,13 +52,11 @@ In this repo, you can chack all ES versions and features, you can check also thi
 
 7. ECMAScript 2021 (ES12) :
 
-https://dev.to/naimlatifi5/ecmascript-2021-es12-new-features-2l67
 
 8. ECMAScript 2022 (ES13) :
 
-https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/
 
-8. ECMAScript 2023 (ES14) :
+9. ECMAScript 2023 (ES14) :
 
 
 ## References : 
@@ -72,3 +70,7 @@ https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/
 7. [ES9 new features - tutorials point](https://www.tutorialspoint.com/es6/es9_newfeatures.htm)
 8. [ES11 : Quoi de neuf Javascript ?](https://www.codeheroes.fr/2020/04/06/es2020-quoi-de-neuf-javascript/)
 9. [New JavaScript Features in ES11 That You Should Know](https://dev.to/worldindev/10-new-javascript-features-in-es2020-that-you-should-know-3ohf)
+10. [ECMAScript 2021 (ES12) new features](https://dev.to/naimlatifi5/ecmascript-2021-es12-new-features-2l67)
+11. [Top 6 JavaScript ES12 Features You Should Use](https://www.syncfusion.com/blogs/post/top-6-javascript-es12-features-you-should-use.aspx)
+12. [New JavaScript Features | ES13 Features | ECMAScript 2022 Features](https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/)
+13. [11 Amazing New JavaScript Features in ES13 (ES2022)](https://codingbeautydev.com/blog/es13-javascript-features/)
