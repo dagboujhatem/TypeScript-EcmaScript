@@ -52,6 +52,13 @@ In this repo, you can chack all ES versions and features, you can check also thi
 
 7. ECMAScript 2021 (ES12) :
 
+        - Numeric separators   
+        - String replaceAll()    
+        - Logical assignment operator   
+        - Promise.any   
+        - Private class methods   
+        - Private getters and setters   
+        - WeakRef   
 
 8. ECMAScript 2022 (ES13) :
 
