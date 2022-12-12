@@ -59,3 +59,4 @@ https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/
 4. [ES9: Spread operator & rest parameter in javascript tutorial](https://www.javascripttutorial.net/es6/javascript-spread/)
 5. [How to Use the Spread Operator (…) in JavaScript](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 6. [What's the Spread Operator Used For in JavaScript?](https://www.digitalocean.com/community/tutorials/js-spread-operator)
+7. [ES9 new features - tutorials point](https://www.tutorialspoint.com/es6/es9_newfeatures.htm)
