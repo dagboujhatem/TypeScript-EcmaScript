@@ -91,3 +91,4 @@ Check this [YouTube Video](https://www.youtube.com/watch?v=Kga1Rf39x2U) to learn
 11. [Top 6 JavaScript ES12 Features You Should Use](https://www.syncfusion.com/blogs/post/top-6-javascript-es12-features-you-should-use.aspx)
 12. [New JavaScript Features | ES13 Features | ECMAScript 2022 Features](https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/)
 13. [11 Amazing New JavaScript Features in ES13 (ES2022)](https://codingbeautydev.com/blog/es13-javascript-features/)
+14. [The Latest ES13 JavaScript Features](https://plainenglish.io/blog/latest-es13-javascript-features)
