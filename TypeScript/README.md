@@ -15,3 +15,7 @@
 ## TypeScript:
 
         - 
+
+## references: 
+1. [ecmascript-6+ : wishtack](https://guide-angular.wishtack.io/ecmascript-6+)
+1. [typescript : wishtack](https://guide-angular.wishtack.io/typescript)
