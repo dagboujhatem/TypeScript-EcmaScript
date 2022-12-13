@@ -7,6 +7,7 @@ const NAME = "Hatem";
 const LAST_NAME = "DAGHBOUJ";
 const isShow = true;
 
+// Block scoping with const
 if(isShow) {
     const FULL_NAME = `${NAME} ${LAST_NAME}`; 
     console.log(FULL_NAME); // Output: "Hatem DAGHBOUJ"
@@ -16,7 +17,7 @@ console.log(isShow); // Output: true
 //isShow = false; // ERROR: cannot assign to 'isShow' because it is a constant
 
 // Using the let to update some variable
-
+// Block scoping with let
 if(true){
     let hasError = false;
     console.log(hasError); // Output: false
