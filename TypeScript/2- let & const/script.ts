@@ -12,7 +12,8 @@ if(isShow) {
     console.log(FULL_NAME); // Output: "Hatem DAGHBOUJ"
 }
 // console.log(FULL_NAME); // ERROR: Cannot find name 'FULL_NAME'.
-
+console.log(isShow); // Output: true
+//isShow = false; // ERROR: cannot assign to 'isShow' because it is a constant
 
 // Using the let to update some variable
 
