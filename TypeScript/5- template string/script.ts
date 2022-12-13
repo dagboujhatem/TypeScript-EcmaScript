@@ -6,4 +6,4 @@ function loading(): void {
     alert(message);
 }
 
-// export {}; // 👈️ make file ES Module
+export {}; // 👈️ make file ES Module
