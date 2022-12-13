@@ -1,8 +1,9 @@
-/* 90s */
+// Part 1: function declaration in all EcmaScript version
+/* 90s ==> => 1997(ES1) & 1998(ES2) & 1999(ES3)*/
 // function sayHi(userName) {
 //     console.log('Hi ' + userName);
 // }
-// /* 2000s */
+// /* 2000s => 2009 (ES5)*/
 // var sayHi = function (userName) {
 //     console.log('Hi ' + userName);
 // };
