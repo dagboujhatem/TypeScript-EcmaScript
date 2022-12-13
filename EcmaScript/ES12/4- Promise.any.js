@@ -1,7 +1,7 @@
 // Promise.any accepts an iterable of promises and resolves as soon as one of the promise is resolved. If none of the promises aren't resolved then an AggregateError error is returned as an array with individual errors for each promise.
 // Promise.any works in the opposite way of Promise.all() where all iterable promises needs to be resolved for a single promise to resolve.
 
-// // Exemple 1 : 
+// // Example 1 : 
 // console.log(" =============== Promise Any ==================");
 
 // const A = new Promise((resolve, reject) => {
@@ -31,7 +31,7 @@
 // resolvedPromises()
 // rejectedPromises()
 
-// Exemple 2 : 
+// Example 2 : 
 const e1 = new Promise((resolve, reject) => {
     reject(new Error('Error 1'));
   });

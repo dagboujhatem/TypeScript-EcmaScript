@@ -1,4 +1,4 @@
-  // Exemple : Similar to private methods and properties, we can define private accessors (getters and setters) using the same syntax.
+  // Example : Similar to private methods and properties, we can define private accessors (getters and setters) using the same syntax.
   class Auth {
     get #getToken() {
      return localStorage.getItem('token');

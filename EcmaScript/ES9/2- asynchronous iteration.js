@@ -1,7 +1,7 @@
 // With asynchronous iterables, we can use the await keyword in for/of loops.
 
-// basic exemple without loop
-console.log("==================== exemple 1 =================")
+// basic example without loop
+console.log("==================== example 1 =================")
 
 async function* load() {
     yield await Promise.resolve(1);
@@ -22,8 +22,8 @@ async function* load() {
 // {value: 3, done: false}
 // {value: undefined, done: true}
 
-// exemple with for/of loop & await is used in this loop
-console.log("==================== exemple 2 =================")
+// example with for/of loop & await is used in this loop
+console.log("==================== example 2 =================")
 
 async function* load() {
     yield await Promise.resolve(1);
@@ -45,8 +45,8 @@ async function test() {
 // 2
 // 3
 
-// exemple with for/of loop & await is used in this loop
-console.log("==================== exemple 3 =================")
+// example with for/of loop & await is used in this loop
+console.log("==================== example 3 =================")
 
 async function fntest() {
     for await (const val of [10, 20, 30, 40]) {

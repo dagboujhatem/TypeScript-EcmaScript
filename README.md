@@ -1,3 +1,3 @@
 # EcmaScript (ES) & TypeScript
 
-This repo contains all docs & exemples of TypeScript and/or EcmaScript.
+This repo contains all docs & examples of TypeScript and/or EcmaScript.

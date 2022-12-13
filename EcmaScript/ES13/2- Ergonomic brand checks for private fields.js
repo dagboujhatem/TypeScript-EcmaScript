@@ -13,7 +13,7 @@
 // console.log(Person.check(new Person())); // true
 
 
-// Exemple 2
+// Example 2
 class User {
     #name;
     constructor(name) {

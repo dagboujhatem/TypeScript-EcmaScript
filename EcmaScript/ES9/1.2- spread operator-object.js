@@ -73,7 +73,7 @@ console.log(email);
 console.log(rest); // object with deleting a property from the source object.
 console.log(updatedUser);
 
-// Other exemple 
+// Other example 
 const transformedResponse = [{
     drugName: 'HYDROCODONE-HOMATROPINE MBR',
     drugStrength: '5MG-1.5MG',

@@ -22,3 +22,21 @@ const sayHi = (userName) => {
 
 // Function call : to be executed
 sayHi("Hatem");
+
+
+// Part 2 : arguments 
+// If your function recive ONLY ONE argument : so you can delete the paramenteses
+// Example 1
+const printMyName = name =>{
+    console.log(name);
+}
+
+// Example 2: 
+const printMyNameV2 = () =>{
+    console.log("Hatem");
+}
+
+// Example 3:
+const printMyNameV2 = () =>{
+    console.log("Hatem");
+}

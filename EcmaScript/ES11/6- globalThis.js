@@ -3,8 +3,8 @@
 // self : Dans le cas de l’utilisation d’un web worker;
 // global : Dans le cas de l’environnement NodeJS.
 
-// Exemple via une cas d'utilisation :
-// Prenons comme exemple la vérification de la prise en charge du type BigInt par l’environnement d’exécution et l’utilisation d’un polyfill dans le cas où celui-ci n’est pas présent :
+// Example via une cas d'utilisation :
+// Prenons comme example la vérification de la prise en charge du type BigInt par l’environnement d’exécution et l’utilisation d’un polyfill dans le cas où celui-ci n’est pas présent :
 
 //  Avant ES 11 (avant 2021)
 let globalContext = null;
