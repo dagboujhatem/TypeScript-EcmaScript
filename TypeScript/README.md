@@ -18,10 +18,11 @@
         - Types of variables: string, number, boolean, Array<T>, any
         - Visibility of classe: public, private, protected
         - Visibility of properties & methodes: public, private, protected
+        - The readonly access modifier
         - Inference of classes
-        - Interfaces
-        - 
-        - 
+        - Static property & method
+        - TypeScript Abstract Classes
+        - TypeScript Interfaces
 
 ## References: 
 1. [Ecmascript-6+ : wishtack](https://guide-angular.wishtack.io/ecmascript-6+)
