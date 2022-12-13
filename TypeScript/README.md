@@ -15,6 +15,12 @@
 
 ## TypeScript:
 
+        - Types of variables: string, number, boolean, Array<T>, any
+        - Visibility of classe: public, private, protected
+        - Visibility of properties & methodes: public, private, protected
+        - Inference of classes
+        - Interfaces
+        - 
         - 
 
 ## references: 
