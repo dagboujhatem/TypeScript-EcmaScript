@@ -13,7 +13,7 @@ const config = {
 // }
 
 // 3th way to export as default
-// export {config as default};
+export {config as default};
 
 // NOTES:
 // NOTE 1: ONLY ONE export default in the same file (i.e Il ne peut y avoir qu’un seul export default par fichier).
