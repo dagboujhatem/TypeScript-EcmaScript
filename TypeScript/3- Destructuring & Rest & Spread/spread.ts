@@ -22,3 +22,5 @@ const spreadWithObjects = (): void => {
     const updatedEmployee = {...employee, country: 'FR'}
     console.log(updatedEmployee)
 }
+
+spreadWithObjects();
