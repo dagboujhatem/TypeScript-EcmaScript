@@ -25,7 +25,10 @@ const cb : Function = (e: MouseEvent) =>{
 function printId(id: number) {}
 
 // les types de retour des fonction dans TS
-function print() : void {} // void : foonction qui ne retourne rien
+function print() : void { // void : foonction qui ne retourne rien
+    console.log('Hello')
+} 
+
 const callback : (e: MouseEvent) => void = (e: MouseEvent): void =>{ // typage de callback function
     e.preventDefault();
 } 
