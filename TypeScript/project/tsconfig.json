@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "strict": false,
+        "strict": true,
         "target": "ESNext",
         "outDir": "dist"
     },
