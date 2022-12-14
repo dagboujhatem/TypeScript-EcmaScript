@@ -1,5 +1,2 @@
-var App = /** @class */ (function () {
-    function App() {
-    }
-    return App;
-}());
+class App {
+}
