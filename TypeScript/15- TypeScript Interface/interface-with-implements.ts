@@ -14,13 +14,13 @@ class Person implements Json {
     }
     // setters
     
-    toJson(): string {
+    toJSON(): string {
         return JSON.stringify(this);
     }
 }
 
 let person = new Person('John', 'Doe');
-console.log(person.toJson());
+console.log(person.toJSON());
 
 // Output
 // {"firstName":"John","lastName":"Doe"}
