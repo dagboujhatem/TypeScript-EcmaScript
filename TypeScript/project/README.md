@@ -12,6 +12,8 @@
 10. Configurer le fichier `tsconfig.json` et exécuter la commande `npx tsc` ou `tsc`.
 11. Je vous inite de voir [ce lien](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) pour voir plus sur les configurations qu'on peut mettre dans le fichier `tsconfig.json`.
 12. Pour voir plus sur les options de compilateur typescript, merci de visiter [ce lien](https://www.typescriptlang.org/docs/handbook/compiler-options-in-msbuild.html).
+13. Mode serveur: lancer la commande `npx tsc --watch` ou bien `tsc --watch` pour lancer la compilation avec la mise à jour des fichier typescript.
+14. 
 
 
 
