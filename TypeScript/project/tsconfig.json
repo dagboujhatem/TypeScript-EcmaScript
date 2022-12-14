@@ -2,7 +2,8 @@
     "compilerOptions": {
         "strict": true,
         "target": "ESNext",
-        "outDir": "dist"
+        "outDir": "dist",
+        "rootDir": "src"
     },
     "files": [
         "src/main.ts"
