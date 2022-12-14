@@ -23,6 +23,13 @@
         - Static property & method
         - TypeScript Abstract Classes
         - TypeScript Interfaces
+        - TypeScript Advanced Types
+        - TypeScript Types vs Interfaces
+        - TypeScript Generics: 
+                - Generics functions: how to use TypeScript generics to develop generic functions.
+                - Generic Constraints: how to add constraints to the generic types
+                - Generic Interfaces: how to develop generic classes
+                - Generic Classes: how to develop generic interfaces
 
 ## References: 
 1. [Ecmascript-6+ : wishtack](https://guide-angular.wishtack.io/ecmascript-6+)
