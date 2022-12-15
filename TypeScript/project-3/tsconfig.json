@@ -15,5 +15,14 @@
     "exclude": [
         "node_modules",
         "**/*.spec.ts"
-    ]
+    ],
+    "baseUrl": ".",
+    "paths": {
+        "@services/*": [
+            "src/services/*"
+        ],
+        "@angular/core": [
+            "src/decorators/core.module"
+        ]
+    }
 }
