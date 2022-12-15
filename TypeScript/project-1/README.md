@@ -2,7 +2,9 @@
 
 ## About this project:
 
-In this project, you can learn how to use typescript in your computer in order to create a modern Web application. 
+In this project, you can learn how to use typescript in your computer in order to create a modern Web application.
+
+In this project we have created an application that allows to increment a counter having by default the value 0.
 
 ## Steps to create this project:
 1. Créer un projet nodejs avec la commande `npm init -y`.
