@@ -1,7 +1,7 @@
-import { Module } from './module'
+import { NgModule } from './module'
 import { Component } from './component'
 
 export default {
-    Module, 
+    NgModule, 
     Component
 }

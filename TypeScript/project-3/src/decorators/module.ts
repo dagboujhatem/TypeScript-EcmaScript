@@ -1,4 +1,4 @@
-interface ModuleArgs {
+interface NgModuleArgs {
     declarations: any[],
     imports?: any[],
     providers?: any[],
@@ -6,7 +6,7 @@ interface ModuleArgs {
     exports?: any[],
 }
 
-export function Module(args: ModuleArgs) {
+export function NgModule(args: NgModuleArgs) {
     const {declarations, providers, bootstrap, imports, exports} = args;
     return function (constructor: typeof HTMLElement) {
         // customElements.define(selector, constructor)

@@ -1,6 +1,7 @@
 import { Component } from "../../decorators/component";
-import { AuthService } from "../../services/auth.service";
-
+// import { AuthService } from "../../services/auth.service";
+import { AuthService } from "@services/AuthService";
+const u  = new AuthService()
 @Component({
     selector: 'app-root',
     templateUrl: './app.component.html',

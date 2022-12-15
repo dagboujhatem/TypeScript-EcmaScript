@@ -1,6 +1,6 @@
-import { Module } from "../decorators/module";
+import { NgModule } from "../decorators/module";
 
-@Module({
+@NgModule({
     declarations: [],
     imports: [],
     providers:  [],

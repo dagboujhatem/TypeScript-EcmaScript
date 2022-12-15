@@ -18,11 +18,11 @@
     ],
     "baseUrl": ".",
     "paths": {
-        "@services/*": [
-            "src/services/*"
+        "@services/AuthService": [
+            "./src/services/AuthService"
         ],
         "@angular/core": [
-            "src/decorators/core.module"
+            "./src/decorators/core.module"
         ]
     }
 }
