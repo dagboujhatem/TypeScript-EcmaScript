@@ -16,13 +16,13 @@
         "node_modules",
         "**/*.spec.ts"
     ],
-    "baseUrl": ".",
+    "baseUrl": "./src",
     "paths": {
         "@services/AuthService": [
             "./src/services/AuthService"
         ],
-        "@angular/core": [
-            "./src/decorators/core.module"
+        "@angular/core/*": [
+            "decorators/*"
         ]
     }
 }
