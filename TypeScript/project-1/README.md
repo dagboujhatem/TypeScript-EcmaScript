@@ -1,5 +1,10 @@
-# TypeScript project 
+# TypeScript project 1:
 
+## About this project:
+
+In this project, you can learn how to use typescript in your computer in order to create a modern Web application. 
+
+## Steps to create this project:
 1. Créer un projet nodejs avec la commande `npm init -y`.
 2. Installer TypeScript en tant que dépendance de développement en utilisant la commande `npm i -D typescript` ou bien la commande `npm install typescript --save-dev`.
 3. Optional: créer un ficher `.gitignore` et ajouter `/node_modules` dedans.
