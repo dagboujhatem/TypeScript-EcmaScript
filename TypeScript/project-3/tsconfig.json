@@ -3,11 +3,17 @@
         "strict": true,
         "target": "ESNext",
         "outDir": "dist",
-        "rootDir": "src"
+        "rootDir": "src",
+        "experimentalDecorators": true
     },
     "files": [
         "src/main.ts"
     ],
-    "include": ["src/**/*"],
-    "exclude": ["node_modules", "**/*.spec.ts"]
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
 }
