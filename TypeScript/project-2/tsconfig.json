@@ -5,7 +5,8 @@
         "outDir": "dist",
         "rootDir": "src",
         "declaration": true,
-        "declarationDir": "dist/declarations"
+        "declarationDir": "dist/declarations",
+        "moduleResolution": "Node"
     },
     "files": [
         "src/main.ts"
