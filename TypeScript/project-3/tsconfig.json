@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "ESNext",
+        "outDir": "dist",
+        "rootDir": "src"
+    },
+    "files": [
+        "src/main.ts"
+    ],
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+}
