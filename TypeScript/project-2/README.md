@@ -9,4 +9,4 @@ In this project we have created an application that allows to modify the global 
 ## Steps to create this project:
 
 1. Create a new TypeScript project.
-2. Add `declaration` & `declarationDir` in your `tsconfig.json` file.
+2. Add `declaration` & `declarationDir` options in your `tsconfig.json` file.
